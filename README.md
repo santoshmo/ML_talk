@@ -5,7 +5,7 @@ In this talk, we will be going over basic concepts in machine learning and model
 Thank you Sai Dharmarajan, shdharma@umich.edu, for the standardized data. 
 
 You will need to install the following things. The easiest way to do this is to first install a package manager. 
-If you have a Mac, please use pip: https://pip.pypa.io/en/latest/installing.html.
+Please use pip: https://pip.pypa.io/en/latest/installing.html.
 
 Numpy, Scipy, Scikit-learn: 
 ```
